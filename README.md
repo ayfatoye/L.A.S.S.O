@@ -3,8 +3,7 @@
 L.A.S.S.O (Liaison Acquisition System for Sponsor Outreach) is a script designed to automate the process of cold emailing sponsors or recruiters who might be interested in sponsoring your student organization's events. With L.A.S.S.O, you can conveniently reach out to potential sponsors and schedule your emails for specific times when recipients are more likely to check their inboxes, thereby maximizing the chances of your email being read.
 
 ## Developer's Note
-- This is a public version of the![Example_of_Spreadsheet](https://github.com/ayfatoye/L.A.S.S.O/assets/140027391/066daf70-f684-40b7-9e0d-3a40dff009cf)
- L.A.S.S.O project with a simpler email template/data so I can share my code without any of my student org's proprietary data
+- This is a public version of the L.A.S.S.O project with a simpler email template/data so I can share my code without any of my student org's proprietary data
 
 ## Features
 
@@ -30,6 +29,7 @@ L.A.S.S.O (Liaison Acquisition System for Sponsor Outreach) is a script designed
 - Fill out the first three columns with the information of the sponsors you want to contact
 - Only the first row of the "Schedule Time" column needs to be filled out
   - Fill out the date/time in this format: YYYY-MM-DD HH:MM:SS
+![Example_of_Spreadsheet](https://github.com/ayfatoye/L.A.S.S.O/assets/140027391/066daf70-f684-40b7-9e0d-3a40dff009cf)
 
 ### Running the Script
 - Open Google Apps Script via your Google Spreadsheet
