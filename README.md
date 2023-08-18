@@ -2,6 +2,11 @@
 
 L.A.S.S.O (Liaison Acquisition System for Sponsor Outreach) is a script designed to automate the process of cold emailing sponsors or recruiters who might be interested in sponsoring your student organization's events. With L.A.S.S.O, you can conveniently reach out to potential sponsors and schedule your emails for specific times when recipients are more likely to check their inboxes, thereby maximizing the chances of your email being read.
 
+## ROI
+- The primary return on investment of L.A.S.S.O is that it's 5-10 times faster than manually sending individualized cold emails to sponsors.
+- The efficiency increase can range from 5-10 times faster, depending on the number of people being reached out to. Generally, the larger the number of people, the more valuable L.A.S.S.O becomes.
+- This enhancement in speed is highly beneficial for student organizations' logistics teams.
+
 ## Developer's Note
 - This is a public version of the L.A.S.S.O project with a simpler email template/data so I can share my code without any of my student org's proprietary data
 
